@@ -1,0 +1,14 @@
+html {
+  background: -webkit-gradient(linear, left top, left bottom, from(teal), to(lightblue)) fixed;
+}
+
+h1 {
+  font-family: "Arial Black";
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
